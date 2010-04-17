@@ -1,0 +1,9 @@
+The impersonator bot joins the specified channels and keeps an n-gram
+for each nick. If you are the 'owner' you may give it the following
+commands:
+
+ - set_ngram_width $new_width
+ - impersonate $nick $channel
+ - test $nick
+
+
